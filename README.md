@@ -1,5 +1,7 @@
 # README
 
-💻 Alessandro Margonari
-📚 4IND Buonarroti
-🏙️ Trento
+- ME:
+- 💻 Alessandro Margonari
+- SCUOLA:
+- 📚 4IND Buonarroti
+- 🏙️ Trento
