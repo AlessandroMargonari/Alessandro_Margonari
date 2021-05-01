@@ -2,6 +2,6 @@
 
 - ME:
 - 💻 Alessandro Margonari
-- SCUOLA:
+- SCHOOL:
 - 📚 4IND Buonarroti
 - 🏙️ Trento
