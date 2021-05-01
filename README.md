@@ -1,6 +1,5 @@
 # README
 
-Alessandro Margonari
-4IND
-Buonarroti
-Trento
+💻 Alessandro Margonari
+📚 4IND Buonarroti
+🏙️ Trento
